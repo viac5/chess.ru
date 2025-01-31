@@ -1,6 +1,6 @@
 # Desktop Chess Application
 
-![Chess Game Screenshot](![image](https://github.com/user-attachments/assets/557d6e05-f6e2-488a-b296-3046034ac007)) <!-- Место для вставки скриншота работы программы -->
+![Chess Game Screenshot](https://github.com/user-attachments/assets/557d6e05-f6e2-488a-b296-3046034ac007) <!-- Место для вставки скриншота работы программы -->
 
 ## О проекте
 
@@ -15,7 +15,7 @@
 - **Figure**: базовый класс для всех фигур.
 - **Наследуемые фигуры**: Bishop, Queen, Pawn, Knight, King, Rook, каждая со своими методами.
 - **King**: содержит дополнительные методы для проверки матов, патов и сквозного удара (нельзя убрать фигуру, если после этого хода король будет атакован).
-![Checkmate Screenshot](![image](https://github.com/user-attachments/assets/a5ae195a-b736-4634-8e69-d4781a676148)) <!-- Место для вставки скриншота интерфейса клиента -->
+![Checkmate Screenshot](https://github.com/user-attachments/assets/a5ae195a-b736-4634-8e69-d4781a676148) <!-- Место для вставки скриншота интерфейса клиента -->
 
 
 ### Доска
@@ -43,7 +43,6 @@
 1. Запустите приложение.
 2. Начните новую партию и наслаждайтесь игрой!
 
-![Gameplay Screenshot](path/to/your/screenshot.png) <!-- Место для вставки скриншота игрового процесса -->
 
 ## Вклад
 
