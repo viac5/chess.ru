@@ -266,8 +266,9 @@ void resetGame() {
 Widget build(BuildContext context) {
   return Scaffold(
     appBar: AppBar(
-      title: const Text('Chess Board'),
-      backgroundColor: Colors.black87, // Темный цвет для AppBar
+      title: const Text('chess.ru'),
+      foregroundColor: const Color.fromARGB(255, 180, 171, 171), // Цвет текста на AppBar
+      backgroundColor: const Color.fromARGB(221, 17, 16, 16), // Темный цвет для AppBar
       centerTitle: true,
     ),
     body: Container(
