@@ -30,11 +30,11 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/desktop-chess-app.git
+    git clone https://github.com/viac5/chess.ru
     ```
 2. Перейдите в папку проекта:
     ```bash
-    cd desktop-chess-app
+    cd chess.ru
     ```
 3. Соберите библиотеку на C++ и свяжите её с клиентом на Flutter.
 
