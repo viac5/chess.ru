@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|solutionrelative:Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|solutionrelative:Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Move.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|solutionrelative:Move.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|solutionrelative:King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|solutionrelative:Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\FlutterFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|solutionrelative:FlutterFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\FlutterFunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|solutionrelative:FlutterFunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|solutionrelative:Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A0F430-C777-43A8-B11F-EE2B4895B0D1}|chessLibraryForFlutter.vcxproj|solutionrelative:Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Move.h",
+              "DocumentMoniker": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Move.h",
+              "RelativeDocumentMoniker": "Move.h",
+              "ToolTip": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Move.h",
+              "RelativeToolTip": "Move.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T15:13:04.261Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T13:45:17.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pawn.h",
+              "DocumentMoniker": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Pawn.h",
+              "RelativeDocumentMoniker": "Pawn.h",
+              "ToolTip": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Pawn.h",
+              "RelativeToolTip": "Pawn.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T16:44:46.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Figure.h",
+              "DocumentMoniker": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Figure.h",
+              "RelativeDocumentMoniker": "Figure.h",
+              "ToolTip": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Figure.h",
+              "RelativeToolTip": "Figure.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-03T14:18:21.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "King.cpp",
+              "DocumentMoniker": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\King.cpp",
+              "RelativeDocumentMoniker": "King.cpp",
+              "ToolTip": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\King.cpp",
+              "RelativeToolTip": "King.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T14:06:31.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Board.cpp",
+              "RelativeDocumentMoniker": "Board.cpp",
+              "ToolTip": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Board.cpp",
+              "RelativeToolTip": "Board.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T18:24:38.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlutterFunc.cpp",
+              "DocumentMoniker": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\FlutterFunc.cpp",
+              "RelativeDocumentMoniker": "FlutterFunc.cpp",
+              "ToolTip": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\FlutterFunc.cpp",
+              "RelativeToolTip": "FlutterFunc.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T18:10:52.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlutterFunc.h",
+              "DocumentMoniker": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\FlutterFunc.h",
+              "RelativeDocumentMoniker": "FlutterFunc.h",
+              "ToolTip": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\FlutterFunc.h",
+              "RelativeToolTip": "FlutterFunc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T18:10:42.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pawn.cpp",
+              "DocumentMoniker": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Pawn.cpp",
+              "RelativeDocumentMoniker": "Pawn.cpp",
+              "ToolTip": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Pawn.cpp",
+              "RelativeToolTip": "Pawn.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T18:03:47.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Board.h",
+              "DocumentMoniker": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Board.h",
+              "RelativeDocumentMoniker": "Board.h",
+              "ToolTip": "D:\\c-\u002B\u002B\u002B\\chessLibraryForFlutter\\Board.h",
+              "RelativeToolTip": "Board.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T18:01:47.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
