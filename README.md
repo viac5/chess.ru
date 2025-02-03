@@ -38,7 +38,7 @@
     cd chess.ru
     ```
 3. Скопируйте путь до библиотеки c++ ("...\chess.ru\chessLibraryForFlutter\x64\Debug\chessLibraryForFlutter.dll") и вставьте его в файл ...\chess.ru\lib\chess_ffi.dart.
-4. Заходите в VS code и запускайте!
+4. Октройте проект в VS code и запускайте!
    
 
 ## Как играть
